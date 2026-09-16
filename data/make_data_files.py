@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 ##
 #  Retrieves the SCEC project location from CARC. They are
