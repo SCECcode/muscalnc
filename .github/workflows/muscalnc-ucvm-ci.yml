@@ -22,7 +22,7 @@ jobs:
       uses: actions/checkout@v4
       with: 
         repository: 'SCECcode/UCVM'
-        ref: testMei
+##        ref: testMei
         path: ucvm
     - id: build-ucvm
       name: build ucvm
@@ -82,7 +82,7 @@ jobs:
       uses: actions/checkout@v4
       with: 
         repository: 'SCECcode/UCVM'
-        ref: testMei
+##        ref: testMei
         path: ucvm
     - id: build-ucvm
       name: build ucvm
